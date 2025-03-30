@@ -164,7 +164,7 @@ from OpenGL.GLUT import *
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/opencv-kociemba-cube.git
+[git clone https://github.com/yourusername/opencv-kociemba-cube.git](https://github.com/MinManchiZ/Opencv-kociemba-Rubik-s-Cube.git)
 
 # 安装依赖
 pip install -r requirements.txt
@@ -174,7 +174,7 @@ python main.py
 ```
 
 ### 使用方法
-
+【Python+Kociemba算法解三阶魔方】 https://www.bilibili.com/video/BV1KNZBYTEix/?share_source=copy_web&vd_source=ac4dc20d87f066923330b8cfd1bbcc8e
 #### 摄像头识别
 
 1. 启动程序，选择摄像头模式
@@ -234,5 +234,5 @@ python main.py
 ---
 
 <div align="center">
-  <p>© 2023 OpenCV+Kociemba魔方解算项目</p>
+  <p>© 2025 OpenCV+Kociemba魔方解算项目</p>
 </div>
